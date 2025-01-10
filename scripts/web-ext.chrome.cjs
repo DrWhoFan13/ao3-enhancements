@@ -6,6 +6,7 @@ module.exports = {
     target: ['chromium'],
     startUrl: [
       'https://archiveofourown.org/',
+      'https://archiveofourown.gay/',
       'chrome://extensions/',
       'chrome://inspect/#extensions',
     ],

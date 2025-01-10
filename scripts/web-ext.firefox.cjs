@@ -9,6 +9,7 @@ module.exports = {
     keepProfileChanges: true,
     startUrl: [
       'https://archiveofourown.org/',
+      'https://archiveofourown.gay/',
       'about:debugging#/runtime/this-firefox',
       'about:addons',
     ],
